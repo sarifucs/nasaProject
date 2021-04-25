@@ -1,0 +1,21 @@
+#formLogin{
+    border: 1px;
+    width: 40%;
+    margin: 0 auto;
+}
+#container{
+    margin-top: 20%;
+}
+.warnning{
+    color:red;
+    width: 100%;
+    margin: 0px;
+}
+.required{
+    color:red;
+    /* width: 100%; */
+    margin: 5px;
+}
+#create{
+    margin-top: 5px;
+}

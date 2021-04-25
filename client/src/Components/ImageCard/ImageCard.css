@@ -1,0 +1,27 @@
+#title{
+    margin-bottom: 0px;
+    color: darkblue;
+}
+/* #todayImage{
+    margin: 0 auto;
+    height: 33vh;
+} */
+/* img{
+    max-height: 200px;
+    min-width: 400px;
+} */
+.btn.btn-primary{
+    background-color: white;
+    color: darkblue;
+    padding: 5px;
+}
+li{
+	list-style: none;
+}
+/* .card-body {
+    height: 15vh; 
+}*/
+.card{
+    margin-bottom: 3px;
+    height: 45vh;
+}

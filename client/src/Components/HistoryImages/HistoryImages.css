@@ -1,0 +1,10 @@
+#delete:hover{
+    color:blue !important;
+    border-bottom: blue solid 0.5px;
+    padding-bottom: 0.5px;
+    display: inline-block;
+    height: 30px;
+}
+#delete{
+    font-size: x-large !important;
+}

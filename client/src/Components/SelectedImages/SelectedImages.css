@@ -1,0 +1,26 @@
+#like:hover{
+    color:blue;
+    border-bottom: blue solid 0.5px;
+    padding-bottom: 0.5px;
+    display: inline-block;
+    height: 30px;
+}
+#like{
+    font-size: x-large;
+}
+ul{
+	list-style: none;
+}
+img, #widget6, #img, #video-block, .hard-hidden{
+    width: 100% !important;
+    height: 30vh !important;
+}
+.card-title {
+    height: 5vh;
+}
+.card{
+    margin-bottom: 3px;
+}
+#player {
+    width:30px
+}
